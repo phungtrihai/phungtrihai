@@ -28,7 +28,7 @@ Connect me via:
 * 📎phungtrihai2000@gmail.com
 * 📱0835803522
 * [Linkedin](https://www.linkedin.com/in/phungtrihai25112000/)
-* [Personal Website](https://www.notion.so/Nice-to-meet-you-860093ee0d6c4aecbd4263fad19a1d3e)
+* [Personal Website](https://torch-naranja-318.notion.site/Nice-to-meet-you-860093ee0d6c4aecbd4263fad19a1d3e)
 ***
 
 ### 💻 **Skills**
