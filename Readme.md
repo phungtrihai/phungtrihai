@@ -11,6 +11,14 @@
 I’m **Hai** - a **curious person** and **story lover** who passionate about telling story with data and finding out the answer behind its.
 
 > 🔗Favorite quote: "All knowledge from past to present is fascinating, just that they haven't been properly told"- *Monster Box*
+***
+### 📖 **Background**
+
+* 2018-2022 - **FOREIGN TRADE UNIVERSITY** 
+
+-Bachelor Degree - *International Economic*
+
+* 2019-2020 - **HIROSHIMA UNIVERSITY OF ECONOMIC**
 
 ***
 ### 👏 **Contact**
@@ -18,13 +26,26 @@ I’m **Hai** - a **curious person** and **story lover** who passionate about te
 Connect me via:
 * 📎phungtrihai2000@gmail.com
 * 📱0835803522
+* [Linkedin](https://www.linkedin.com/in/phungtrihai25112000/)
+* [Personal Website](https://www.notion.so/Nice-to-meet-you-860093ee0d6c4aecbd4263fad19a1d3e)
 ***
-### 📖 **Background**
 
-2018-2022 - **FOREIGN TRADE UNIVERSITY** 
+### 💻 **Skills**
 
-Bachelor Degree - *International Economic*
+ * *Excel/Google Sheet**
 
-2019-2020 - **HIROSHIMA UNIVERSITY OF ECONOMIC**
+* *Power BI/Data Studio*
 
-*Exchange student*
+* *SQL*
+
+* *Python*
+-*Exchange student*
+***
+### 🗺 **Guide to my Projects**
+You can see my project and study documents [Here]
+* [Python Projects](https://github.com/phungtrihai/Dataprojects/tree/main/Python)
+* [SQL Projects](https://github.com/phungtrihai/Dataprojects/tree/main/SQL) 
+* [Visualization (PBI)](https://github.com/phungtrihai/Dataprojects/tree/main/PBI)
+
+***
+**Thank you for visiting :) - Tri Hai**
