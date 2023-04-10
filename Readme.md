@@ -20,6 +20,7 @@ I’m **Hai** - a **curious person** and **story lover** who passionate about te
 
 * 2019-2020 - **HIROSHIMA UNIVERSITY OF ECONOMIC**
 
+-Exchange student
 ***
 ### 👏 **Contact**
 
@@ -39,7 +40,7 @@ Connect me via:
 * *SQL*
 
 * *Python*
--*Exchange student*
+
 ***
 ### 🗺 **Guide to my Projects**
 You can see my project and study documents [Here]
@@ -48,4 +49,4 @@ You can see my project and study documents [Here]
 * [Visualization (PBI)](https://github.com/phungtrihai/Dataprojects/tree/main/PBI)
 
 ***
-**Thank you for visiting :) - Tri Hai**
+**Thank you for visiting :) - Tri Hai 🥰**
