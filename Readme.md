@@ -44,8 +44,8 @@ Connect me via:
 ***
 ### 🗺 **Guide to my Projects**
 You can see my project and study documents [Here]
-* [Python Projects](https://github.com/phungtrihai/Dataprojects/tree/main/Python)
-* [SQL Projects](https://github.com/phungtrihai/Dataprojects/tree/main/SQL) 
+* [SQL Projects](https://github.com/phungtrihai/Dataprojects/tree/main/SQL)
+* [Python Projects](https://github.com/phungtrihai/Dataprojects/tree/main/Python) 
 * [Visualization (PBI)](https://github.com/phungtrihai/Dataprojects/tree/main/PBI)
 
 ***
