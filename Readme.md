@@ -33,7 +33,7 @@ Connect me via:
 
 ### 💻 **Skills**
 
- * *Excel/Google Sheet**
+ * *Excel/Google Sheet*
 
 * *Power BI/Data Studio*
 
@@ -43,10 +43,7 @@ Connect me via:
 
 ***
 ### 🗺 **Guide to my Projects**
-You can see my project and study documents [Here](github.com/phungtrihai/phungtrihai/Project Guild.md)
-* [SQL Projects](https://github.com/phungtrihai/Dataprojects/tree/main/SQL)
-* [Python Projects](https://github.com/phungtrihai/Dataprojects/tree/main/Python) 
-* [Visualization (PBI)](https://github.com/phungtrihai/Dataprojects/tree/main/PBI)
+You can see my project and study documents [Here](https://github.com/phungtrihai/phungtrihai/blob/main/Project%20Guild.md)
 
 ***
 **Thank you for visiting :) - Tri Hai 🥰**
