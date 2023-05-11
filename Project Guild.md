@@ -1,6 +1,7 @@
+# 🗺 Project-Guide.md
 Hi there! 
 
-Welcome to my project guild - where you can take a look at some of my projects and study documents.
+Welcome to my **project guild** - where you can take a look at some of my projects and study documents.
 
 If you want to have more detail about each project, you can click it **blue title** to go to the link.
 

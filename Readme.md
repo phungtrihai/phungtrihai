@@ -43,7 +43,7 @@ Connect me via:
 
 ***
 ### 🗺 **Guide to my Projects**
-You can see my project and study documents [Here]
+You can see my project and study documents [Here](github.com/phungtrihai/phungtrihai/Project Guild.md)
 * [SQL Projects](https://github.com/phungtrihai/Dataprojects/tree/main/SQL)
 * [Python Projects](https://github.com/phungtrihai/Dataprojects/tree/main/Python) 
 * [Visualization (PBI)](https://github.com/phungtrihai/Dataprojects/tree/main/PBI)
