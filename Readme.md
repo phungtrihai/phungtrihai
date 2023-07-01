@@ -42,7 +42,7 @@ Connect me via:
 * *Python*
 
 ***
-### Certify
+### 💻 **Certify**
 <picture>
   <img alt="YOUR-ALT-TEXT" src="https://scontent.fsgn7-1.fna.fbcdn.net/v/t1.15752-9/357623883_9474070365997542_3722708706683841561_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QMsR1K_FeiQAX-Ms2CJ&_nc_ht=scontent.fsgn7-1.fna&oh=03_AdRvgv0V1EyxnDaAMn_TwMdNT43JmgN-I0J9BRxhNLf_5Q&oe=64C710CA" width="310" height="200">
 </picture>
@@ -59,6 +59,7 @@ Connect me via:
   <img alt="YOUR-ALT-TEXT" src="https://scontent.fsgn7-1.fna.fbcdn.net/v/t1.15752-9/357678863_1715322178901564_3936077291100463497_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=YzQ8MsCk1gcAX-EVkRw&_nc_ht=scontent.fsgn7-1.fna&oh=03_AdRreW02o5JAUYyG-2eKgI7DwXxCl2ZUyyJMvw2dzgoUTw&oe=64C71503" width="310" height="200">
 </picture>
 
+***
 
 ### 🗺 **Guide to my Projects**
 You can see my project and study documents [Here](https://github.com/phungtrihai/phungtrihai/blob/main/Project%20Guild.md)
