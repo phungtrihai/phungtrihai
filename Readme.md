@@ -51,4 +51,10 @@ Connect me via:
 You can see my project and study documents [Here](https://github.com/phungtrihai/phungtrihai/blob/main/Project%20Guild.md)
 
 ***
+
+### **Book Summary**
+Recently, I love to reading books relate to logical & data topic. You can see some of my book's sumamrize [Here](https://github.com/phungtrihai/Dataprojects/tree/main/Learning%20Materials/Book%20summary)
+
+***
+
 **Thank you for visiting :) - Tri Hai 🥰**
