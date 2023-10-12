@@ -24,9 +24,9 @@ This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/c
   * Comprehend and use Window Frame with window functions
 # Python
 ## ⌨️ Project
-### [Sales Reporting (Basic)](https://github.com/phungtrihai/Dataprojects/blob/main/Python/Casestudy1%20-%20Sales%20Reporting%20%5BBasic%5D/Casestudy1.ipynb)
+### [Sales Reporting (Basic)](https://github.com/phungtrihai/Dataprojects/tree/main/Python/Project/Casestudy1%20-%20Sales%20Reporting%20%5BBasic%5D)
 + **Skills learnt**: Import library and data, clean data with drop N/A, change column type and name, and columns,.. Add charts to visualize data.
-### [Retail sales Analysis (Intermediate)](https://github.com/phungtrihai/Dataprojects/blob/main/Python/Retail%20sales%20Analysis/Retail%20sales%20data.ipynb)
+### [Retail sales Analysis (Intermediate)](https://github.com/phungtrihai/Dataprojects/blob/main/Python/Project/Retail%20sales%20Analysis/Retail%20sales%20data.ipynb)
 + **Skills learnt:**
     
     + **Data collection**
@@ -36,9 +36,9 @@ This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/c
     + **Customer segmentation using RFM**
 
 ## 📃 Study Documents
-### 🧹 [Data Cleaning](https://github.com/phungtrihai/Dataprojects/blob/main/Python/Documentations/pandas-library-80-exercises.ipynb)
+### 🧹 [Data Cleaning](https://github.com/phungtrihai/Dataprojects/tree/main/Python/Data%20Analysis%20with%20Python/Data%20Cleaning)
 * **Skills learnt**: Pandas datatype, useful functions to clean data.
-### 📊 [Data Visualization](https://github.com/phungtrihai/Dataprojects/blob/main/Python/Documentations/Visualization%20with%20Matplotlib.ipynb)
+### 📊 [Data Visualization](https://github.com/phungtrihai/Dataprojects/blob/main/Learning%20Materials/Others/Visualization%20with%20Matplotlib.ipynb)
 * **Skills learnt**: visualize quantitative and categorical variable using some type of chart such as *Line, Scatter plot, Error bar, Histogram,..*
 
 # Power BI
